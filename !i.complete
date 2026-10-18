@@ -1,0 +1,12 @@
+url        file:///C:/Users/Asus%20Vivobook/Desktop/sample%202%20flyest/index.html
+http       200
+load       376ms
+title      "FLYEST — Made With Style"
+bodyChars  1795
+patchright C:\Users\Asus Vivobook\.vscode\extensions\danielsanmedium.dscodegpt-3.24.77\standalone/
+text       FREE SHIPPING NATIONWIDE — SHIPS VIA J&T EXPRESS Shop New Lookbook About FLYEST Help CART 0 THE FLYEST COLLECTION MADE WITH STYLE EVERYDAY ESSENTIALS. NOTHING EXTRA. SHOP NOW ↗ EST. 2023 · FLYEST THE 
+eval       "EVAL ERROR: Error: page.evaluate: SyntaxError: Unexpected token ')'"
+
+console errors/warnings (0):
+
+requests failed (0):

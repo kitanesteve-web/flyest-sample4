@@ -1,0 +1,12 @@
+url        file:///C:/Users/Asus%20Vivobook/Desktop/sample%202%20flyest/lookbook.html
+http       200
+load       230ms
+title      "FLYEST — Lookbook"
+bodyChars  303
+patchright C:\Users\Asus Vivobook\.vscode\extensions\danielsanmedium.dscodegpt-3.24.77\standalone/
+text       FREE SHIPPING NATIONWIDE — SHIPS VIA J&T EXPRESS Shop FLYEST Back to home ↗ FLYEST · COLLECTION 2026 THE LOOKBOOK MADE WITH STYLE BLACK HOODIE SHOP NOW ↗ BROWN HOODIE SHOP NOW ↗ CREAM HOODIE SHOP NOW 
+eval       "EVAL ERROR: Error: page.evaluate: SyntaxError: Unexpected token ')'"
+
+console errors/warnings (0):
+
+requests failed (0):
